@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javeriiaaa
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Text Mining using NLP techniques.
+- 🌱 I’m currently learning Text Mining using Machine Learning techniques.
 
 <!---
 javeriiaaa/javeriiaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
